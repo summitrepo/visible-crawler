@@ -1,0 +1,3 @@
+window.visibleCrawler = {
+    ping: () => 'pong',
+};
